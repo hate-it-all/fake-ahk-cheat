@@ -12,7 +12,10 @@ just install delete.bat and start it
 
 or
 
-press WIN + R /n
-type shell:startup /n
-press Enter /n
+press WIN + R
+
+type shell:startup 
+
+press Enter 
+
 Delete SKYWARE.exe
